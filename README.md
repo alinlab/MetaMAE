@@ -4,7 +4,8 @@ PyTorch implementation for "[Modality-agnostic Self-Supervised Learning with Met
 
 <img width="100%" src="https://github.com/alinlab/MetaMAE/assets/69646951/ed05afec-a7fd-4ae8-aa68-4ead3f7e8d40" />
 
-**TL;DR:** Interpreting MAE through meta-learning to improve unsupervised representation of MAE on arbitrary modality xx.
+**TL;DR:** Interpreting MAE through meta-learning and applying advanced meta-learning techniques to improve unsupervised representation of MAE on arbitrary modalities.
+
 
 ## Install
 
